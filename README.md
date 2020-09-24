@@ -21,4 +21,4 @@
 * UC Berkeley Entrepreneurship Course - prototype based on lean startups
 * Software Maestro 10th - ScriptSlide Project
 
-### You can show more detail infomation here 👉 [Portfolio](https://www.notion.so/961aae770a994bdbaaf098600ccd8f51)
+### You can see more detail infomation here 👉 [Portfolio](https://www.notion.so/961aae770a994bdbaaf098600ccd8f51)
