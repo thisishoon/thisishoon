@@ -1,14 +1,13 @@
 ## 💕 I love
-* Python, Django
-* Data platform
-* NLP
-* AWS
+* (C++ for PS), Python, Django
+* MySQL, MongdoDB, Kafka, Elastic Stack
+* AWS (EC2, RDS, S3, ELB, ElastiCache, ElasticSearch ...) for MSA
 
 ## 🌱 I’m currently learning ...
-* Elastic Stack, Hadoop eco-system
-* Airflow
-* Kafka
-* Docker, K8s
+* Flask, FastAPI, Celery, RabbitMQ
+* Node.js with Basic of Frontend 
+* Data Engineering with Airflow, (Spark, Numpy, Pandas) for ML
+* Docker, Kubernetis
 
 ## 👯 I have experiences of
 * Pycon Korea 2020 Speaker - Presentation on the topic of sentence similarity algorithm
