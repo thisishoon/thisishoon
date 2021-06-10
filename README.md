@@ -1,18 +1,25 @@
 ## 💕 I love
-* (C++ for PS), Python, Django
-* MySQL, MongdoDB, Kafka, Elastic Stack
+* Python, Django, (C++ for PS)
+* MySQL(MariaDB), Elastic Stack
 * AWS (EC2, RDS, S3, ELB, ElastiCache, ElasticSearch ...) for MSA
 
+## I Want to learm
+* HA
+* Container with **Docker, K8s**
+* Java and Kotlin based on JVM
+* Spring
+
+
 ## 🌱 I’m currently learning ...
-* Flask, FastAPI, Celery, RabbitMQ
-* Node.js with Basic of Frontend 
-* Data Engineering with Airflow, (Spark, Numpy, Pandas) for ML
-* Docker, Kubernetis
+* **Linux, Apache, MariaDB, PHP**, JS(Naver Working)
+* Data Engineering with Airflow, Spark
+* Flask, FastAPI, Celery, RabbitMQ(With Python)
 
 ## 👯 I have experiences of
+* Naver Search CIC SRE - monitoring system about batch refine
 * Pycon Korea 2020 Speaker - Presentation on the topic of sentence similarity algorithm
-* SK Broadband Backend Intern - Open source tremo
-* Silicon Valley Start-up C3.chat Intern - Noise Detection Project
+* SK Broadband Backend Intern - Motitoring Open source about Real-time trending search terms in broadcast
+* Silicon Valley Start-up C3.chat Intern - Noise Detection Project using gRPC
 * UC Berkeley Entrepreneurship Course - prototype based on lean startups
 * Software Maestro 10th - ScriptSlide Project
 
